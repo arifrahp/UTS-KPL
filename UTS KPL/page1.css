@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap");
+
+* {
+  font-family: "Ubuntu";
+}
+
+.button {
+  margin: auto;
+  border: 2px solid black;
+  width: fit-content;
+  padding: 20px;
+}
+
+.lowertext {
+  position: absolute;
+  left: 40%;
+  bottom: 5%;
+}
+
+body {
+  background-image: url("GAJI\ ANDA.jpg");
+
+  background-position-x: center;
+  background-repeat: repeat;
+  background-size: cover;
+}
